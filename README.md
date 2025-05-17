@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=30&duration=4000&pause=1000&color=009dc5&center=true&vCenter=true&width=770&lines=Desarrollador+Full+Stack+💻;Apasionado+por+la+tecnología+🚀;Siempre+aprendiendo+y+creando;¡Bienvenido+a+mi+perfil!" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-barrett-260a2a268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
 </div>
@@ -57,17 +63,4 @@ Desarrollador Full Stack con más de un año y medio de experiencia creando apli
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
-</div>
-
-### 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-barrett-260a2a268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="100"/>
 </div>
