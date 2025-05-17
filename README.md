@@ -1,4 +1,4 @@
-<h1 align="center">✨ ¡Hola, soy Ricardo! 👨‍💻</h1>
+<h1 align="center">✨ ¡Hola, soy Ricardo! 👨🏾‍💻</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47cccnfsyz9fy37cbmojjme7hqcm4jbbosbx90diau&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="200"/>
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
 </div>
@@ -26,17 +25,6 @@ Desarrollador Full Stack con más de un año y medio de experiencia creando apli
   <img src="https://media.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif?cid=ecf05e47wi9q9kk8974pvx6gzca4gn19zbporuzjv5l0tb4d&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="180"/>
 </div>
 
-<div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
-</div>
-
-### 🌱 ¿Qué me motiva?
-```txt
-> 🧩 Diseñar interfaces intuitivas y accesibles para todos.
-> 🔍 Optimizar el rendimiento y la experiencia del usuario.
-> 💡 Aprender nuevas herramientas, frameworks y arquitecturas.
-> 🍕 Y sí… ¡la pizza también!
-````
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
 </div>
@@ -60,7 +48,3 @@ Desarrollador Full Stack con más de un año y medio de experiencia creando apli
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-
-<div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRtN2ZoajU4djZpdnR5bHR3M2F0MG5qa3Z3c3kwcGFiaWd5eHFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GgYTQ414ptvoD0KBwS/giphy.gif" width="150%" height="50"/>
-</div>
