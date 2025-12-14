@@ -19,7 +19,7 @@
 
  ### 🧠 Sobre mí
 
-Desarrollador Full Stack con más de un año y medio de experiencia creando aplicaciones web modernas, eficientes y atractivas. Me especializo en tecnologías del ecosistema JavaScript, tanto en el frontend como en el backend. Me encanta resolver problemas, aprender cosas nuevas y transformar ideas en soluciones funcionales.
+Desarrollador Full Stack con más de 2 años de experiencia creando aplicaciones web modernas, eficientes y atractivas. Me especializo en tecnologías del ecosistema JavaScript, tanto en el frontend como en el backend. Me encanta resolver problemas, aprender cosas nuevas y transformar ideas en soluciones funcionales.
 
 <div align="center">
   <img src="https://media.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif?cid=ecf05e47wi9q9kk8974pvx6gzca4gn19zbporuzjv5l0tb4d&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="180"/>
